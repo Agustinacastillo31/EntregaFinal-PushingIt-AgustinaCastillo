@@ -1,0 +1,13 @@
+{
+    "products": {
+        "product1": {
+            "productName": "White Pants",
+            "productPrice": 20
+        },
+        "product2": {
+            "productName": "Black T-Shirt",
+            "productPrice": 15
+        }
+    }
+}
+
